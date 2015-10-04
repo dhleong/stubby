@@ -1,4 +1,4 @@
-(defproject stubby "0.1.0"
+(defproject stubby "0.1.0-SNAPSHOT"
   :description "Stub optional dependencies"
   :url "http://github.com/dhleong/stubby"
   :license {:name "Eclipse Public License"
