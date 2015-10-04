@@ -1,8 +1,10 @@
-# stubby
+# stubby [![Build Status](http://img.shields.io/travis/dhleong/x-radar.svg?style=flat)](https://travis-ci.org/dhleong/x-radar)
 
 A Clojure library designed to provide support for optional dependencies
 
 ## Usage
+
+[![Clojars Project](http://clojars.org/stubby/latest-version.svg)](http://clojars.org/stubby)
 
 Create a stub of the namespace, and fill it with stubs:
 
